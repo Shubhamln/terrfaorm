@@ -1,7 +1,8 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIAYBV6V6YIYQYUTDPE"
-  secret_key = "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"
+  access_key = "***************
+  "
+  secret_key = "***************"
 }
 
 variable "myip" {
